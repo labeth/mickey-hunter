@@ -1,0 +1,4 @@
+Reads /dev/input/trackedmouse
+Writes the length the mouse has moved to /var/opt/mickey/length.txt
+
+
